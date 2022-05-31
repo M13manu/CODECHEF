@@ -1,5 +1,5 @@
 # Python Programme
-* *Python programme to read 10 number and from a file and write even and odd in different files*
+* ***Python programme to read 10 number and from a file and write even and odd in different files***
 * First we create a file called "numbers.txt" and write 10 numbers in the file
 * Then we create an empty list called "my_list"
 * Then we read the numbers from the numbers.txt file add them to the empty list using append option
