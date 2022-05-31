@@ -6,3 +6,4 @@
 * Then we open even.txt and odd.txt and run the elements from the list through the conditon to check if the element is whether even or odd
 * If it is even it wil be written in to the even.txt file
 * If it is odd it wil be written in to the odd.txt file
+* **This programme is written in 3.8.12 version of Python in Replit**
